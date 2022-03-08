@@ -1,2 +1,2 @@
-## This R script is to demonstrate Weighted Correlation Network Analysis (WGCNA) using R
+### The script for Kenyan breast cancer WGCNA analysis
 
