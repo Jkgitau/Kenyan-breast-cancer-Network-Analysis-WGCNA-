@@ -1,2 +1,2 @@
-### The script for Kenyan breast cancer WGCNA analysis
+#### This repository contains the data, results and code used to analyse Kenyan breast cancer RNA-Seq data. 
 
